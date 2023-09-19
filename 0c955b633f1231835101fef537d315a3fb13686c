@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "04028319_91f8e9a3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-09-19T08:51:32Z",
+      "side": 1,
+      "message": "366608: Fix OOB write in BuildHuffmanTable. | https://review.lineageos.org/c/LineageOS/android_external_webp/+/366608",
+      "revId": "0c955b633f1231835101fef537d315a3fb13686c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
