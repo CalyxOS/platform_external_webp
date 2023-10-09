@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c32231b6_da00e37c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-10-09T23:23:17Z",
+      "side": 1,
+      "message": "Ooh can we bump to 2023-10-06 now? Gotta freeze SPL for all devices (well, GS) then.",
+      "revId": "7efca82b6a91808de45e41b50f275c9ec6da9515",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
